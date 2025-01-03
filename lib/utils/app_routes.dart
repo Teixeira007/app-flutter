@@ -1,6 +1,4 @@
 class AppRoutes{
-  static const AUTH = '/auth';
-  static const HOME = '/';
-  static const LOGIN  = '/login';
-  static const SIGN =  '/cadastro';
+  static const AUTH_OR_HOME = '/';
+  static const ADD_GYM  = '/addGym';
 }
